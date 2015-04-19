@@ -324,10 +324,5 @@
                 return messageLinesArray;
             }
 
-            //startmenu
-            //move
-            //battle
-            //examine
-            //inventory
 	});
 }());
